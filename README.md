@@ -1,6 +1,8 @@
 # imc-calculator
 Calculadora de IMC desenvolvido com HTML, CSS e JavaScript.
 
+Deploy: https://imc-calculator-ana1.onrender.com
+
 ![imc1](https://github.com/user-attachments/assets/e554dadb-3820-4664-9609-82e5e3391564)
 
 
